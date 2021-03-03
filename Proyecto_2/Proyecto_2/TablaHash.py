@@ -23,7 +23,3 @@ class TablaHash:
             return self.table[hash]
   
 
-diccionario = {}
-diccionario["hg32"] = "Hola Ramses"
-
-print(diccionario["hg32"])
